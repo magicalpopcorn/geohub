@@ -6,6 +6,10 @@ __pycache__/
 # venv lib
 py3
 
+# misc
+tmp.py
+note.txt
+
 # C extensions
 *.so
 
