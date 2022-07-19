@@ -9,6 +9,7 @@ py3
 # misc
 tmp.py
 note.txt
+**/secret.py
 
 # C extensions
 *.so
